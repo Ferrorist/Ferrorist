@@ -1,35 +1,30 @@
-<span style="font-size: 230%">**박 다 민**</span>
-<div style="margin-bottom:50px">Park Da Min</div>
+# 박 다 민
+Park Da Min
 
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
-<span style="font-size: 230%; font-weight:700">History<br></span>
+## History
+
+- 삼성 청년 소프트웨어 아카데미 10기 (SSAFY)
+  ( 2023.07.05. ~ )
+
+- 2023 제 4회 K-디지털 트레이닝 해커톤 예선 진출
+  (응급실 지킴이, 2023.05.02. ~ 2023.06.23. )
+
+- 🎓 경북대학교 졸업
+  소프트웨어학과 ( ~ 2018.08. ) → 심화컴퓨터학부
+  ( 2015.03. ~ 2023.02. )
+
+- KT AIVLE SCHOOL AI 개발자 트랙 2기
+  ( 2022.07.26. ~ 2023.01.19. )
+
+- (주)플래시21 현장실습 ( 모바일 애플리케이션 개발 )
+  ( 2021.07.12. ~ 2021.08.06. )
+
+## Tech Stack
+
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <br>
-
-- 삼성 청년 소프트웨어 아카데미 10기 (SSAFY)<br> ( 2023.07.05. ~ )
-
-- 2023 제 4회 K-디지털 트레이닝 해커톤 예선 진출<br>
-(응급실 지킴이, 2023.05.02. ~ 2023.06.23. )
-
-- 🎓 경북대학교 졸업<br>
-소프트웨어학과 ( ~ 2018.08. ) → 심화컴퓨터학부<br>
-( 2015.03. ~ 2023.02. )
-
-- KT AIVLE SCHOOL AI 개발자 트랙 2기<br>
-( 2022.07.26. ~ 2023.01.19. )
-
-- (주)플래시21 현장실습 ( 모바일 애플리케이션 개발 )<br>
-( 2021.07.12. ~ 2021.08.06. )
-
-
-<br>
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    <span style="font-size: 230%; font-weight:700">Tech Stack<br></span>
-        <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <br>
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -56,13 +51,8 @@
 <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 
-  </div>
-</div>
+## GitHub Analytics & Baekjoon Online Judge
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrorist&theme=highcontrast)
 
-
-<span style="font-size: 150%; font-weight:500">GitHub Analytics & Baekjoon Online Judge<br></span>
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrorist&theme=highcontrast)]
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ferrorist)](https://solved.ac/ferrorist)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ferrorist)](https://solved.ac/ferrorist)
