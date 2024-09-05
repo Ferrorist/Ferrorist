@@ -1,5 +1,5 @@
-# 박 다 민
-Park Da Min
+# 목표와 협업을 우선시하는 백엔드 개발자, 박다민 입니다.
+
 
 ## Education
 
@@ -7,7 +7,7 @@ Park Da Min
   ( 2023.07.05. ~ 2024.06.28. )
 
 - 경북대학교 졸업<br>
-  소프트웨어학과 ( ~ 2018.08. ) → 심화컴퓨터학부<br>
+  소프트웨어학과 ( ~ 2018.08. ) → 심화컴퓨터학과<br>
   ( 2015.03. ~ 2023.02. )
 
 - KT AIVLE SCHOOL AI 개발자 트랙 2기 수료<br>
@@ -60,3 +60,12 @@ Park Da Min
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ferrorist&theme=highcontrast)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ferrorist)](https://solved.ac/ferrorist)
+
+
+## Team Project
+| Subject | Description | My Role | Period | Link |
+| --- | --- | --- | --- | --- |
+| ROTTO(ROasTing TOken) | 커피 농장 STO 토큰 증권 앱 | BlockChain, Backend | 2024.04.08 ~ 2024.05.20 | [Github](https://github.com/Ferrorist/ROTTO) |
+| 심청이 | 청년들을 위한 정책 추천 앱 | ChatBot, Backend | 2024.02.26 ~ 2024.04.05 | [Github](https://github.com/Ferrorist/Simcheonge) |
+| 악기상어 | 혼자 또는 그룹으로 악기 연습을 하는 이들을 위한 웹 서비스 | PM, Infra, Backend | 2024.01.08 ~ 2024.02.16 | [Github](https://github.com/Ferrorist/AKGI_SHARK) |
+| BLAIND | AI 기반 영상 모자이크 웹 서비스 | Full-Stack |2022.11.28 ~ 2023.01.11 | [Github](https://github.com/Ferrorist/BLAIND_public) |
