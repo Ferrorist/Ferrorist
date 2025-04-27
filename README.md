@@ -16,6 +16,9 @@
 
 ## History
 
+- [NEXTRON](https://www.microprobesystem.com/) R&D Team - SW Engineer<br>
+  ( 2025.03.04. ~ )
+
 - 2023 제 4회 K-디지털 트레이닝 해커톤 예선 진출<br>
   (응급실 지킴이, 2023.05.02. ~ 2023.06.23. )
 
