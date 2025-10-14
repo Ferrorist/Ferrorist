@@ -69,6 +69,6 @@
 | Subject | Description | My Role | Period | Link |
 | --- | --- | --- | --- | --- |
 | ROTTO(ROasTing TOken) | 커피 농장 STO 토큰 증권 앱 | BlockChain, Backend | 2024.04.08 ~ 2024.05.20 | [Github](https://github.com/Ferrorist/ROTTO) |
-| 심청이 | 청년들을 위한 정책 추천 앱 | ChatBot, Backend | 2024.02.26 ~ 2024.04.05 | [Github](https://github.com/Ferrorist/Simcheonge) |
+| 심청이 | 청년들을 위한 정책 추천 앱 | AI (LLM), Backend | 2024.02.26 ~ 2024.04.05 | [Github](https://github.com/Ferrorist/Simcheonge) |
 | 악기상어 | 혼자 또는 그룹으로 악기 연습을 하는 이들을 위한 웹 서비스 | PM, Infra, Backend | 2024.01.08 ~ 2024.02.16 | [Github](https://github.com/Ferrorist/AKGI_SHARK) |
 | BLAIND | AI 기반 영상 모자이크 웹 서비스 | Full-Stack |2022.11.28 ~ 2023.01.11 | [Github](https://github.com/Ferrorist/BLAIND_public) |
